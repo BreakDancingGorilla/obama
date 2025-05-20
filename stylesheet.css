@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#canvas1{
+    height: 98.99vh;
+    width: 99.99vw;
+    background-image: url(./realObamaNew.gif);
+}
+
+
+body {
+background-color: black;
+
+}
+
+
+
+
